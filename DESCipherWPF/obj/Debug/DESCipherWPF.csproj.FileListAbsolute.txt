@@ -1,0 +1,42 @@
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.csprojResolveAssemblyReference.cache
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\MainWindow.g.cs
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\App.g.cs
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.cache
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.lref
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\bin\Debug\DESCipherWPF.exe.config
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\bin\Debug\DESCipherWPF.exe
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\bin\Debug\DESCipherWPF.pdb
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\MainWindow.baml
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.g.resources
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.Properties.Resources.resources
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.csproj.GenerateResource.Cache
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.exe
+c:\users\seba\documents\visual studio 2017\Projects\DESCipherWPF\DESCipherWPF\obj\Debug\DESCipherWPF.pdb
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.exe.config
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.exe
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.pdb
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.exe
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.pdb
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\App.g.cs
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.cache
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.lref
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\MainWindow.baml
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.g.resources
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.Properties.Resources.resources
+C:\Users\Karol\Desktop\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.csproj.GenerateResource.Cache
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.exe.config
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.exe
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\bin\Debug\DESCipherWPF.pdb
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.csprojResolveAssemblyReference.cache
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\MainWindow.g.cs
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\App.g.cs
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.cache
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF_MarkupCompile.lref
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\MainWindow.baml
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.g.resources
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.Properties.Resources.resources
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.csproj.GenerateResource.Cache
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.exe
+E:\backup_OBS\strona kebs&vargone\DESCipher-master-2\DESCipher-master\DESCipherWPF\obj\Debug\DESCipherWPF.pdb
